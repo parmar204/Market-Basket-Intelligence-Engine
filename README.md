@@ -22,12 +22,12 @@ The data pipeline runs a complete preprocessing phase and outputs mathematical d
 ### 1. Consumer Demand Distribution
 This chart analyzes overall product popularity across the entire historical sequence. It explicitly highlights that core grocery staples like `mineral water`, `eggs`, and `spaghetti` dominate transaction volume.
 <br>
-<img src="top_items.png" width="600" alt="Top 20 Most Frequent Items Profile"/>
+<img src="./Plots/top_items.png" width="600" alt="Top 20 Most Frequent Items Profile"/>
 
 ### 2. Shopping Cart Size Concentrations
 This distribution uncovers shopping cart capacities. It indicates a right-skewed layout: the majority of store customers buy 1 to 4 products per visit, highlighting that transactional cross-selling efforts must be focused on small, high-impact product bundles.
 <br>
-<img src="transaction_sizes.png" width="600" alt="Distribution of Basket Sizes"/>
+<img src="./Plots/transaction_sizes.png" width="600" alt="Distribution of Basket Sizes"/>
 
 ---
 
